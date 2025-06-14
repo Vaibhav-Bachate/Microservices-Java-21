@@ -14,11 +14,3 @@ target/
 .project
 .classpath
 
-# Maven
-.mvn/
-dependency-reduced-pom.xml
-
-# Docker & K8s
-*.jar
-.env
-*.yaml

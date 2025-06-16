@@ -1,8 +1,8 @@
-# 🧩 Java 21 Microservices Project – E-commerce System
+# Java 21 Microservices Project – E-commerce System
 
 This repository demonstrates an **industry-standard Java 21 microservices architecture** for an e-commerce platform, containerized using Docker and deployed on Kubernetes using Jenkins for CI/CD.
 
-## 🧱 Microservices Overview
+## Microservices Overview
 
 | Service         | Description                                  | Port |
 |-----------------|----------------------------------------------|------|
@@ -13,7 +13,7 @@ This repository demonstrates an **industry-standard Java 21 microservices archit
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - **Java 21**
 - **Spring Boot 3.x**
@@ -26,7 +26,7 @@ This repository demonstrates an **industry-standard Java 21 microservices archit
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```bash
 java21-microservices/

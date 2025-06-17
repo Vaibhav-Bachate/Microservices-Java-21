@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: api-gateway-service
-          image: vaibhav8855/api-gateway-service:latest
+          image: vaibhav126/api-gateway:1.0
           ports:
             - containerPort: 8080
 ---

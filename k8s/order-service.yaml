@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: order-service
-          image: vaibhav8855/order-service:latest
+          image: vaibhav126/order-service:1.0
           ports:
             - containerPort: 8080
 ---

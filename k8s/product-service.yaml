@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: product-service
-          image: vaibhav8855/product-service:latest
+          image: vaibhav126/product-service:1.0
           ports:
             - containerPort: 8080
 ---

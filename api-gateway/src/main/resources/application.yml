@@ -18,3 +18,11 @@ spring:
           uri: http://user-service
           predicates:
             - Path=/users/**
+
+spring:
+  main:
+    web-application-type: reactive
+
+spring:
+  main:
+    web-application-type: reactive

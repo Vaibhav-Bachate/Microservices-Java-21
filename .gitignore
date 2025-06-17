@@ -1,16 +1,15 @@
-# Java
+# Maven
 target/
+*.jar
 *.class
-
-# Logs
 *.log
 
-# OS files
-.DS_Store
-
-# IDEs
+# IntelliJ
 .idea/
 *.iml
-.project
-.classpath
 
+# macOS
+.DS_Store
+
+# Others
+.env
